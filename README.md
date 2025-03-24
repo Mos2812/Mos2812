@@ -4,3 +4,5 @@
 Apresentação em 27/02
 
 Material apresenta semelhanças entre os integrantes do grupo e interação com os presentes através de um QRCODE com perguntas sobre qual atividade se identifica melhor com o perfil de cada integrante do grupo.
+
+[Informática Aplicada a Logística Log N.pptx](https://github.com/user-attachments/files/19412658/Informatica.Aplicada.a.Logistica.Log.N.pptx)
