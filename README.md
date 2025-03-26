@@ -26,3 +26,5 @@ Qual nacionalidade está com maior número de alunos presentes no estado de São
 
 ![image](https://github.com/user-attachments/assets/3551ee66-8710-4701-845d-cb73a76a9bbd)
 
+[Marcilio Oliveira - Log I Noturno - Alunos Estrangerios 2° Sem 2023.xlsx](https://github.com/user-attachments/files/19459672/Marcilio.Oliveira.-.Log.I.Noturno.-.Alunos.Estrangerios.2.Sem.2023.xlsx)
+https://1drv.ms/u/c/e25cd4b17a58ead0/EcXS_bwbhKxAmfajfylb6cgBDnWtLYc3etp6Y42QpkTKHA?e=JOLCE2
