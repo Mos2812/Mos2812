@@ -8,3 +8,21 @@ Apresentação pessoal de cada integrante do grupo com material demonstrando sem
 ![image](https://github.com/user-attachments/assets/64dd84b0-6760-4590-9743-fafa07f0ac6c)
 ![image](https://github.com/user-attachments/assets/f0ebab3b-6320-4f8a-800e-59b15cf44aae)
 ![image](https://github.com/user-attachments/assets/052b8e7e-26e2-4ab8-a025-f67668f84abb)
+
+
+
+# Atividade II
+2ª Atividade - Quantidade de alunos estrangeiros por nacionalidade - 2º Semestre - 2023
+
+Atividade com base em dados abertos, utilizando o PowerBI é necessário demonstrar as questões que segue:
+
+Quantos alunos existem de cada país, considerando todas as escolas?
+
+Quantas nacionalidades de alunos existem em cada escola?
+
+Quantas nacionalidades de alunos existem em cada município?
+
+Qual nacionalidade está com maior número de alunos presentes no estado de São Paulo?
+
+![image](https://github.com/user-attachments/assets/3551ee66-8710-4701-845d-cb73a76a9bbd)
+
