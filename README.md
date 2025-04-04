@@ -1,3 +1,8 @@
+# Atividade Laboratório
+Fazer exercício em Excel planilha de Controle Financeiro para aplicação de fórmulas e Gráficos.
+![Template Contorle Financeiro](https://github.com/user-attachments/assets/eecad39f-fab7-4831-9754-ceab37dae292)  
+
+
 # Apresentação da Equipe
 1ª Atividade de Informática Aplicada à Logística tendo como tema Apresentação da Equipe.
 
