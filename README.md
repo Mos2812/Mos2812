@@ -1,6 +1,9 @@
 # Atividade Laboratório
-Fazer exercício em Excel planilha de Controle Financeiro para aplicação de fórmulas e Gráficos.
+Exercício em Excel planilha de Controle Financeiro para aplicação de fórmulas e Gráficos.
+Entrega em 28/02
+
 ![Template Contorle Financeiro](https://github.com/user-attachments/assets/eecad39f-fab7-4831-9754-ceab37dae292)  
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/marcilio_santos_fatec_sp_gov_br/Documents/Exercicios%20infomatica%202802.xlsx?d=wc1c634cbf22e4429a3d761d657be7b0f&csf=1&web=1&e=lG2I4s
 
 
 # Apresentação da Equipe
