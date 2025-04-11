@@ -33,3 +33,15 @@ Qual nacionalidade está com maior número de alunos presentes no estado de São
 
 [Marcilio Oliveira - Log I Noturno - Alunos Estrangerios 2° Sem 2023.xlsx](https://github.com/user-attachments/files/19459672/Marcilio.Oliveira.-.Log.I.Noturno.-.Alunos.Estrangerios.2.Sem.2023.xlsx)
 https://1drv.ms/u/c/e25cd4b17a58ead0/EcXS_bwbhKxAmfajfylb6cgBDnWtLYc3etp6Y42QpkTKHA?e=JOLCE2
+
+# Atividade III
+3ª Atividade - Dados abertos referente a Empresas de Transporte Urbano de São José dos Campos - Ano referência 2024   
+
+Entrega em 10/04   
+
+Perguntas referente aos dados coletados:
+1)Quantidade de Estudantes durante o ano;
+2)Quantidade de pagantes utilizando o VT;
+3)Quantidade de Idosos que utilizam o transporte durante o ano.   
+
+
