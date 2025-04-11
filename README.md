@@ -59,6 +59,10 @@ Resposta 3
 
 Link
 Base de Dados:
+[RELATÓRIO DE BILHETAGEM EM 2024.xlsx](https://github.com/user-attachments/files/19713173/RELATORIO.DE.BILHETAGEM.EM.2024.xlsx)   
+
+Relatório em PowerBI:
+
 
 
 
