@@ -44,3 +44,23 @@ Perguntas referente aos dados coletados:
 2)Quantidade de pagantes utilizando o VT;   
 3)Quantidade de Idosos que utilizam o transporte durante o ano.   
 
+Visualização via PowerBI
+![template GitHub](https://github.com/user-attachments/assets/522528a7-6ad9-4fb7-a968-1eaa941ff681)   
+
+Base de Dados   
+![excel atev iii](https://github.com/user-attachments/assets/3f5b2e25-2868-47ca-989f-30720da1c8b5)   
+
+Resposta 1
+![questão 1](https://github.com/user-attachments/assets/26f0a24c-1ac6-4600-98dc-6b439d8df6f1)   
+Resposta 2
+![questão 2](https://github.com/user-attachments/assets/c7c0bb12-9dd5-45f7-b355-0b7075ff3820)   
+Resposta 3
+![questão 3](https://github.com/user-attachments/assets/9f03340d-b147-4478-ba2d-57fca32547a2)
+
+Link
+Base de Dados:
+
+
+
+
+
