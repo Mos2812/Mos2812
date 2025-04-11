@@ -61,9 +61,9 @@ Link
 Base de Dados:
 [RELATÓRIO DE BILHETAGEM EM 2024.xlsx](https://github.com/user-attachments/files/19713173/RELATORIO.DE.BILHETAGEM.EM.2024.xlsx)   
 
+Link
 Relatório em PowerBI:
-
-
+https://app.powerbi.com/groups/me/reports/ab2e0353-3bc1-4ec7-89e8-67cfaff3754f/f757472e3fba4ff85e3d?experience=power-bi
 
 
 
