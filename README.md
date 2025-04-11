@@ -6,7 +6,7 @@ Entrega em 28/02
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/marcilio_santos_fatec_sp_gov_br/Documents/Exercicios%20infomatica%202802.xlsx?d=wc1c634cbf22e4429a3d761d657be7b0f&csf=1&web=1&e=lG2I4s
 
 
-# Apresentação da Equipe
+# Atividade I
 1ª Atividade de Informática Aplicada à Logística tendo como tema Apresentação da Equipe.
 
 Apresentação em 27/02
