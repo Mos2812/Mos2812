@@ -63,7 +63,7 @@ Base de Dados:
 
 Link
 Relatório em PowerBI:
-https://app.powerbi.com/groups/me/reports/ab2e0353-3bc1-4ec7-89e8-67cfaff3754f/f757472e3fba4ff85e3d?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiYTRiYjFhODgtNzRlNy00MTAwLWE5MDYtMmFjODRmNmU5NTc4IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 
 
