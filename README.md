@@ -39,9 +39,8 @@ https://1drv.ms/u/c/e25cd4b17a58ead0/EcXS_bwbhKxAmfajfylb6cgBDnWtLYc3etp6Y42QpkT
 
 Entrega em 10/04   
 
-Perguntas referente aos dados coletados:
-1)Quantidade de Estudantes durante o ano;
-2)Quantidade de pagantes utilizando o VT;
+Perguntas referente aos dados coletados:   
+1)Quantidade de Estudantes durante o ano;   
+2)Quantidade de pagantes utilizando o VT;   
 3)Quantidade de Idosos que utilizam o transporte durante o ano.   
-
 
