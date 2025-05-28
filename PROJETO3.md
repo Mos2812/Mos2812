@@ -5,7 +5,7 @@ elaborar um modelo que realize previsões sobre os preços de imóveis, utilizan
    * Excel   
    * Linguagem Python no ambiente Google Colab com AI Gemini
      
-Dados:
+Dados:   
 preços - Preços do imóveis   
 área - Área do imóvel   
 garagem - Número de vagas de garagem   
