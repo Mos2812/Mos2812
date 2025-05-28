@@ -72,6 +72,6 @@ Regressão linear: Excel e Machine Learning
 
 [Projeto 2: Consumo de Cerveja](https://github.com/Mos2812/Mos2812/blob/main/PROJETO2.md)
 
-[Projeto 3: Venda de Casas](./projeto3.md)
+[Projeto 3: Venda de Casas](https://github.com/Mos2812/Mos2812/blob/main/PROJETO3.md)
 
 
