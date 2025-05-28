@@ -65,6 +65,9 @@ Link
 Relatório em PowerBI:
 https://app.powerbi.com/view?r=eyJrIjoiYTRiYjFhODgtNzRlNy00MTAwLWE5MDYtMmFjODRmNmU5NTc4IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
+# Atividade IV
+Regressão linear: Excel e Machine Learning
 
+[Projeto 1: Venda de Sorvete](./outra-pagina.md)
 
 
