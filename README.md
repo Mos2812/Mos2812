@@ -68,7 +68,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYTRiYjFhODgtNzRlNy00MTAwLWE5MDYtMmFjODRmN
 # Atividade IV
 Regressão linear: Excel e Machine Learning
 
-[Projeto 1: Venda de Sorvete](./projeto1.md)
+[Projeto 1: Venda de Sorvete](Mos2812/projeto1.md)
 
 [Projeto 2: Consumo de Cerveja](./projeto2.md)
 
