@@ -35,6 +35,9 @@ https://docs.google.com/spreadsheets/d/10Dbs91asPkKKszHx_mJngm2lm_c0OIi7?rtpof=t
 
 ![Venda de Casas 5](https://github.com/user-attachments/assets/369e63d5-16c6-4f27-bb54-7a3eacfe4e1d)   
 
+_Link:_   
+https://drive.google.com/open?id=10Dn8PBtE8JeGNP9PUnb6yq1rbuIsoe4O&usp=drive_fs
+
 
 
 
