@@ -12,4 +12,18 @@ Responda:
 1 - Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?   
 2 - Qual modelo você usaria? Por quê?   
 3 - Compare os resultados obtidos com aqueles apresentados em:   
-https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.   
+
+# _Representação em Excel_   
+
+![Cerveja image 1](https://github.com/user-attachments/assets/9fd7933f-4e99-429a-ac8d-08fa4793c366)   
+![Cerveja image 2](https://github.com/user-attachments/assets/6d270c99-503a-4465-878a-db5eb897d89d)   
+![Cerveja image 3](https://github.com/user-attachments/assets/4fa223b0-70de-4bda-a5eb-1717fff5db1c)   
+
+_Link:_   
+https://docs.google.com/spreadsheets/d/1-H6GEILA8cz_yF2d6GdQDpWBZx-j1p4j?rtpof=true&usp=drive_fs   
+
+# _Representação em Python (Utilizando _   
+
+
+
