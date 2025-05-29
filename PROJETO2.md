@@ -23,7 +23,27 @@ https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-pyt
 _Link:_   
 https://docs.google.com/spreadsheets/d/1-H6GEILA8cz_yF2d6GdQDpWBZx-j1p4j?rtpof=true&usp=drive_fs   
 
-# _Representação em Python (Utilizando _   
+# _Representação em Python (Utilizando a ferramenta Google Colab)_   
+
+![Cerveja Colab 1](https://github.com/user-attachments/assets/6b14663c-a159-430e-8f15-9d80fbd99450)   
+
+![Cerveja Colab 2](https://github.com/user-attachments/assets/64ab2bf0-b919-4f49-be25-0e588747a59d)   
+
+![Cerveja Colab 3](https://github.com/user-attachments/assets/2a9dd189-92c9-415d-8d65-fff43fd00937)   
+
+![Cerveja Colab 4](https://github.com/user-attachments/assets/c3756e76-36e8-4622-a4df-bc2aad200c5c)   
+
+![Cerveja Colab 5](https://github.com/user-attachments/assets/ef3ca7af-afac-42c9-b1b7-28be5a14974b)   
+
+![Cerveja Colab 6](https://github.com/user-attachments/assets/762fa4bf-1445-4970-8cd1-2612780fa6f4)   
+
+_Link:_
+https://drive.google.com/open?id=1-J5wTlOFdaK2cxnTG5UFQQ0mm2H_KE2i&usp=drive_fs   
+
+
+
+
+
 
 
 
