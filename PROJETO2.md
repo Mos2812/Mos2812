@@ -40,10 +40,14 @@ https://docs.google.com/spreadsheets/d/1-H6GEILA8cz_yF2d6GdQDpWBZx-j1p4j?rtpof=t
 _Link:_
 https://drive.google.com/open?id=1-J5wTlOFdaK2cxnTG5UFQQ0mm2H_KE2i&usp=drive_fs   
 
+# _Respostas das questões:_
 
+1 - Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?   
+R: Não são iguais, no Python é mais adequado para automação, extensão do modelo e análise em larga escala. Excel é ideal para análises rápidas e compreensão inicial do problema, bem como linhas de dados limitas em quantidade para larga escala de informações.   
 
+2 - Qual modelo você usaria? Por quê?   
+R: Usaria o Python, permite avaliar múltiplas métricas de performace com infinita possibilidades de adaptabilidade com outras ferramentas que podem servir de suporte na busca do melhor resultado, melhor apresentação.   
 
-
-
-
-
+3 - Compare os resultados obtidos com aqueles apresentados em:   
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.  
+R: O modelo aqui apresentado um conjunto específico de dados relacionados ao consumo de cerveja, o artigo do Ivanildo Batista fornece toda base da construção de cálculo linear, de forma  teórica e prática buscando uma análise profunda e extraindo o máximo de dados que possam ser fornecidos na construção da base de dados e criando as relação das informações sobre a construção e avaliação de modelos de regressão linear com as possíveis construções em Python.  
