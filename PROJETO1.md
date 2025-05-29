@@ -8,4 +8,11 @@ Apresentar a quantidade de sorvetes vendidos em função da temperatura do dia, 
 * Excel
 * Linguagem Python no ambiente Google Colab com AI Gemini   
 
-Elabore e compare os modelos preditivos para a situação pedida.
+Elabore e compare os modelos preditivos para a situação pedida.   
+
+# _Representação em Excel_   
+
+![sorvete_dataset excel image](https://github.com/user-attachments/assets/e575a7ee-8f3e-4283-9f81-74ec0060cdb2)   
+
+https://docs.google.com/spreadsheets/d/1N2wIb_dUP28P7-inZPf6TitbvDaPrqfi?rtpof=true&usp=drive_fs   
+
