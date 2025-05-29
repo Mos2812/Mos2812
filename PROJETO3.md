@@ -25,4 +25,20 @@ _Link:_
 https://docs.google.com/spreadsheets/d/10Dbs91asPkKKszHx_mJngm2lm_c0OIi7?rtpof=true&usp=drive_fs   
 
 # _Representação em Python (Utilizando a ferramenta Google Colab)_   
+![Venda de Casas image 1](https://github.com/user-attachments/assets/f5bf32d1-4ea0-4bb2-be8c-75be7497a069)    
+
+![Venda de Casas 2](https://github.com/user-attachments/assets/cf607262-3e2d-474b-97c9-578ef8263d22)   
+
+![Venda de Casas 3](https://github.com/user-attachments/assets/9f408128-5010-41c8-9f60-9e574caed445)   
+
+![Venda de Casas 4](https://github.com/user-attachments/assets/bccab878-2152-4602-a80c-68ff604657dc)   
+
+![Venda de Casas 5](https://github.com/user-attachments/assets/369e63d5-16c6-4f27-bb54-7a3eacfe4e1d)   
+
+
+
+
+
+
+
 
