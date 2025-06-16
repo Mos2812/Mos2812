@@ -18,6 +18,8 @@ _Peças de Computador_
 _Sandálias_   
 ![Sandálias 1](https://github.com/user-attachments/assets/1b8bbe2d-c16c-4f01-96d3-1c68102ecc2f)   
 
+_Link:_   
+[C:\Users\mos28\Downloads\Graf_K_panela_sorvetes_produtos.xlsx]   
 
 
 
