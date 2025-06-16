@@ -77,7 +77,10 @@ Regressão linear: Excel e Machine Learning
 # Atividade V
 Exercícios práticos aplicados com fórmulas em Excel   
    
-[Apresentação Enunciados e Gráficos](https://github.com/Mos2812/Mos2812/blob/main/ENUNCIADO_GRAFICOS.md)
+[Apresentação Enunciados e Gráficos](https://github.com/Mos2812/Mos2812/blob/main/ENUNCIADO_GRAFICOS.md)   
+
+# Atividade VI   
+[Power Automate e Power Apps](https://github.com/Mos2812/Mos2812/blob/main/Power_Automate_Power_App.md)   
 
 
 
