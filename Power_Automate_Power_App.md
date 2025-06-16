@@ -33,7 +33,8 @@ Tela 2
 Tela 3   
 ![App 3](https://github.com/user-attachments/assets/a25539f9-1a97-4893-8178-9d6765d0055c)   
 
-Vídeo em funcionamento
+Vídeo em funcionamento   
+[Assista ao vídeo](https://github.com/Mos2812/Mos2812/blob/main/Power%20Appd%20V%C3%ADdeo.mp4)   
 
 
 
