@@ -12,6 +12,12 @@ _Produtos A e B_
 _Sorvete_   
 ![sorvete 1](https://github.com/user-attachments/assets/e6f5c6b6-d885-4048-9957-f83831d758c8)   
 
+_Peças de Computador_   
+![Computador Peças 1](https://github.com/user-attachments/assets/19181aaa-6c79-456c-b9b7-a2b078455f19)   
+
+_Sandálias_   
+![Sandálias 1](https://github.com/user-attachments/assets/1b8bbe2d-c16c-4f01-96d3-1c68102ecc2f)   
+
 
 
 
