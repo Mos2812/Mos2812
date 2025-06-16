@@ -19,8 +19,8 @@ _Sandálias_
 ![Sandálias 1](https://github.com/user-attachments/assets/1b8bbe2d-c16c-4f01-96d3-1c68102ecc2f)   
 
 _Link:_   
-[C:\Users\mos28\Downloads\Graf_K_panela_sorvetes_produtos.xlsx]   
-
+https://github.com/Mos2812/Mos2812/blob/main/Graf_K_panela_sorvetes_produtos.xlsx   
+https://github.com/Mos2812/Mos2812/blob/main/Graf_K_sandalias_computador.xlsx   
 
 
 
