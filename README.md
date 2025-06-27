@@ -83,7 +83,7 @@ Exercícios práticos aplicados com fórmulas em Excel
 [Power Automate e Power Apps](https://github.com/Mos2812/Mos2812/blob/main/Power_Automate_Power_App.md)  
 
 # Prova 26/06   
-[Prova aqui].(https://github.com/Mos2812/Mos2812/blob/main/PROVA_2606.md)   
+[Prova aqui](https://github.com/Mos2812/Mos2812/blob/main/PROVA_2606.md) 
 
 
 
