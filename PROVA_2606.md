@@ -8,4 +8,5 @@ b) Personalize seu aplicativo quanto à cor, tipo de fonte e outros.
 
 c) Grave o funcionamento do aplicativo via Ferramenta de Captura da tela e poste o vídeo gerado em seu Github.   
 
-[Prova 26/06].([prova 2606.mp4)
+https://github.com/user-attachments/assets/73044dca-1df6-4939-8edb-47eed0ddce85
+
